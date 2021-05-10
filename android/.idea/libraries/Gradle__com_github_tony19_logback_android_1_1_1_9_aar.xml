@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tony19:logback-android:1.1.1-9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d69c6f758564c8b1a14372c065fa06a/jetified-logback-android-1.1.1-9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f42acc092c4048792c1e0916cba8b402/jetified-logback-android-1.1.1-9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2306a5699c86db651ea49749b7e58c5f/jetified-logback-android-1.1.1-9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2306a5699c86db651ea49749b7e58c5f/jetified-logback-android-1.1.1-9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2306a5699c86db651ea49749b7e58c5f/jetified-logback-android-1.1.1-9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android/1.1.1-9/72635ab8c19fa9ef0c73cd689db0f55947d56608/logback-android-1.1.1-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android/1.1.1-9/d94f6cf47084ad05fdb8bd05c3b36f4c711f87ca/logback-android-1.1.1-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

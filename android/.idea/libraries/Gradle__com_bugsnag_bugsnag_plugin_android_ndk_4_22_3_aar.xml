@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bugsnag:bugsnag-plugin-android-ndk:4.22.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd9d9ac7adb7ec278908dd9f2e2c9c80/jetified-bugsnag-plugin-android-ndk-4.22.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7be662dafa5dfc5a6b8fea051ab43e72/jetified-bugsnag-plugin-android-ndk-4.22.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f543c4716e160b82511ccf1a8d16164/jetified-bugsnag-plugin-android-ndk-4.22.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f543c4716e160b82511ccf1a8d16164/jetified-bugsnag-plugin-android-ndk-4.22.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f543c4716e160b82511ccf1a8d16164/jetified-bugsnag-plugin-android-ndk-4.22.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bugsnag/bugsnag-plugin-android-ndk/4.22.3/45c97b7b6e87201ecb4e19a28ea7e1cab53daba8/bugsnag-plugin-android-ndk-4.22.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

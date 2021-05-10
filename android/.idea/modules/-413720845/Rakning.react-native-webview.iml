@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":react-native-webview" external.linked.project.path="$MODULE_DIR$/../../../../node_modules/react-native-webview/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Rakning" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":react-native-webview" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.6.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.6.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/debug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTest/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/1087eb1c63d8b738d6720b8ceff755f6/jetified-react-native-0.61.5-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/dbb465b5e80dfe8930dcd190473709f6/jetified-infer-annotation-0.11.2.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/7ffa9e59926004d7395850685b48fa45/jetified-jsr305-3.0.2.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/efc0662017ca9a74999491e27f251505/jetified-javax.inject-1.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/f383fa5a5f615fb4a28fb6d2c027db74/appcompat-1.0.2-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/e59a5da24aa3a51c297f3eaf00b38ab6/fragment-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/743e11b283efcfd2b6a866ff91c0c16c/vectordrawable-animated-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/c19d06df432567d8f2bce3dfc2dcf41e/legacy-support-core-ui-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/6bff970c7e636ef4afb55243a8a8789a/legacy-support-core-utils-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/094fc5bbfd015174269c9ed4697587ea/vectordrawable-1.0.1-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/9d50f453d60266ccab52221510861854/loader-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/d25296873f642b2189a51409b5f6b2f2/viewpager-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/25213bc16f9749e4a655c0f679c6b8c4/coordinatorlayout-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/49604909689d493c41b555edb17d956a/drawerlayout-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/67cf69439f4384b99bddc52f5027ff6a/slidingpanelayout-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/46740ee4c3316ed132cd25a7d4b73356/customview-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/bcee1994a1202c2adcf10c2e0fbcaf85/swiperefreshlayout-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/f198b00d256853cb407b4dfdda093309/asynclayoutinflater-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/495669672f1a02bfef7900bacf3ae4a6/core-1.0.1-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/e0396be777dd2653405c0add0f3b4581/versionedparcelable-1.0.0-api.jar;C:/Users/steph/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/9c521db6c8c507d12bd57abb7c7be042/cursoradapter-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/10bef180958a525a42e7694c583b3949/lifecycle-runtime-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/84d2746940fe67889c9a5c599e8a6a40/documentfile-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/d1583b06a80bb9e957bc94d28b7e216c/localbroadcastmanager-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/db54406afc7d279e9351250813b40f54/print-1.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/63a8d0e8fefb2336555188bff1cfd771/lifecycle-viewmodel-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/7f0d48b2cd86700c8af3ba4dd9c397ef/lifecycle-livedata-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/4a09938428227def88444e43d4215da9/lifecycle-livedata-core-2.0.0-api.jar;C:/Users/steph/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/787bc70e3ebb074482bbbf04c4bdb55e/core-runtime-2.0.0-api.jar;C:/Users/steph/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/e72e114de535c9c4f7c65a3a5a903d6a/interpolator-1.0.0-api.jar;C:/Users/steph/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/45599f2cd5965ac05a1488fa2a5c0cdd7c499ead/annotation-1.0.0.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/ac97c616fbb60c6a958bac6de457eaa4/jetified-fresco-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/95d9bb0c2995a8328790e300af7a9f6c/jetified-fbcore-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/6fc0169dbcac70ca1783178241d399cc/jetified-drawee-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/a25c89039d3b6ee8b21352a13aa3c103/jetified-imagepipeline-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/37bfc3eb27e56421adfc07c15ef0c696/jetified-imagepipeline-base-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/328568175d4ec4e33767dfff5ea84a8c/jetified-soloader-0.6.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/3b8c2e73677694948357da3596dd5370/jetified-nativeimagefilters-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/7f9c6135d78bc4f6ad7153a1aea2feaa/jetified-nativeimagetranscoder-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/7af8b1a5ff51e16271e691e332d6d22a/jetified-imagepipeline-okhttp3-2.0.0-api.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/6e687b22631c93d98c1c31f83c9eb26b/jetified-okhttp-urlconnection-3.12.1.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/db0b9996feb395f7bbd5685e1340f954/jetified-okhttp-3.12.1.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/f1fd5d52f1732cb147b333d1a62dcd51/jetified-okio-1.15.0.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/dbdfcfa0c0fb2a419f46c10226bf1429/jetified-kotlin-stdlib-1.3.50.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/98c93659a79e7885af4ede9985bcb792/jetified-kotlin-stdlib-common-1.3.50.jar;C:/Users/steph/.gradle/caches/transforms-2/files-2.1/06c01ba071bbecc7e5c11b1d03161a99/jetified-annotations-13.0.jar;C:/Users/steph/AppData/Local/Android/Sdk/platforms/android-30/android.jar;C:/Users/steph/AppData/Local/Android/Sdk/build-tools/29.0.0/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="react-native-webview_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/res" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.facebook.infer.annotation:infer-annotation:0.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp-urlconnection:3.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.12.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.15.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.react:react-native:0.61.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fresco:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fbcore:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:drawee:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-base:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:soloader:0.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagefilters:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-okhttp3:2.0.0@aar" level="project" />
+  </component>
+</module>

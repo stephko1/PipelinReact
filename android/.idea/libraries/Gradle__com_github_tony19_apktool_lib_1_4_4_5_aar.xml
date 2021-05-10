@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tony19:apktool-lib:1.4.4-5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/983f246aa14037fa5e5112776a858af5/jetified-apktool-lib-1.4.4-5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/041c2a2a08e66f05b88ef947713728cd/jetified-apktool-lib-1.4.4-5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93271cfb52cb85d11de7a30fce80e435/jetified-apktool-lib-1.4.4-5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93271cfb52cb85d11de7a30fce80e435/jetified-apktool-lib-1.4.4-5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93271cfb52cb85d11de7a30fce80e435/jetified-apktool-lib-1.4.4-5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-5/33b43a928f4a6bfb05f80596585983ff93620db2/apktool-lib-1.4.4-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-5/e1d821903088aeaf97231380bb78b7e1e5c98a34/apktool-lib-1.4.4-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

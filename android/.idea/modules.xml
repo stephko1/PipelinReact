@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rakning.iml" filepath="$PROJECT_DIR$/.idea/modules/Rakning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1791783793/Rakning.@mauron85_react-native-background-geolocation-common.iml" filepath="$PROJECT_DIR$/.idea/modules/-1791783793/Rakning.@mauron85_react-native-background-geolocation-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1982135418/Rakning.@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1982135418/Rakning.@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Rakning.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Rakning.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1049772524/Rakning.appcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1049772524/Rakning.appcenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1708563955/Rakning.appcenter-analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-1708563955/Rakning.appcenter-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1007253540/Rakning.appcenter-crashes.iml" filepath="$PROJECT_DIR$/.idea/modules/-1007253540/Rakning.appcenter-crashes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/948574047/Rakning.bugsnag-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/948574047/Rakning.bugsnag-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1148121338/Rakning.expo-app-loader-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1148121338/Rakning.expo-app-loader-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1567661654/Rakning.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/1567661654/Rakning.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1597595161/Rakning.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-1597595161/Rakning.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/326720424/Rakning.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/326720424/Rakning.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1225900129/Rakning.expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1225900129/Rakning.expo-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2024219378/Rakning.expo-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/2024219378/Rakning.expo-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/150078606/Rakning.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/150078606/Rakning.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-623677749/Rakning.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-623677749/Rakning.expo-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-301957788/Rakning.expo-secure-store.iml" filepath="$PROJECT_DIR$/.idea/modules/-301957788/Rakning.expo-secure-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1897044746/Rakning.expo-web-browser.iml" filepath="$PROJECT_DIR$/.idea/modules/-1897044746/Rakning.expo-web-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1506483615/Rakning.mauron85_react-native-background-geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1506483615/Rakning.mauron85_react-native-background-geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1982135418/Rakning.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1982135418/Rakning.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/955416995/Rakning.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/955416995/Rakning.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-367343098/Rakning.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-367343098/Rakning.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1131858624/Rakning.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1131858624/Rakning.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1205200036/Rakning.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1205200036/Rakning.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/327336577/Rakning.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/327336577/Rakning.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1525699316/Rakning.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1525699316/Rakning.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1630641314/Rakning.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1630641314/Rakning.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-413720845/Rakning.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-413720845/Rakning.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1493831945/Rakning.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1493831945/Rakning.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/812714725/Rakning.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/812714725/Rakning.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1018704345/Rakning.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1018704345/Rakning.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1661683065/Rakning.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/1661683065/Rakning.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2044045390/Rakning.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/2044045390/Rakning.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1252263112/Rakning.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1252263112/Rakning.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/159812239/Rakning.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/159812239/Rakning.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1445126779/Rakning.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1445126779/Rakning.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1433863396/Rakning.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1433863396/Rakning.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-198086783/Rakning.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/-198086783/Rakning.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1430045359/Rakning.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1430045359/Rakning.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1100071973/Rakning.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1100071973/Rakning.unimodules-task-manager-interface.iml" />
+    </modules>
+  </component>
+</project>
