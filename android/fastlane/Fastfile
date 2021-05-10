@@ -1,0 +1,83 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+
+default_platform(:android)
+
+platform :android do
+
+	desc 'Build and Sign the Android App'
+	lane :build do
+		gradle(
+			task: 'assemble', 
+			build_type: 'Release', 
+			properties: {
+				"VERSION_CODE" => $BUILD_NUMBER,
+				"ANDROID_SDK_ROOT" => "C:/Users/steph/AppData/Local/Android/Sdk",
+				"android.injected.signing.store.file" => "C:/Users/steph/Desktop/keys/keystore.jks",
+				"android.injected.signing.store.password" => "X7CKBHA5wChxgWA0mwnz",
+				"android.injected.signing.key.alias" => "key0",
+				"android.injected.signing.key.password" => "GzT4Q1rtbWiJAgKfDOIE"
+			}
+		)
+	end
+
+	desc "Unit Tests"
+	lane :unit_test do
+	  gradle(task: "test")
+	end
+
+
+	desc "Deploy to Alpha"
+	lane :alpha do
+		upload_to_play_store(
+			track: 'alpha',
+			apk:'./app/release/app-release.apk',
+			version_code: $BUILD_NUMBER
+		)
+	end
+	
+	desc "UI Testing"
+	lane :ui_test do
+		run_tests_firebase_testlab(
+			project_id: "pc-api-7160361455955882320-27",
+			app_apk: './app/release/app-release.apk',
+			devices: [
+			  {
+				model: "Nexus6P",
+				version: "27"
+			  }
+			],
+			delete_firebase_files: true
+		)
+	end
+
+	desc "Deploy to Beta"
+	lane :beta do
+		upload_to_play_store(
+			track: 'alpha',
+			skip_upload_apk: true,	
+			track_promote_to: 'beta',
+			version_code: $BUILD_NUMBER
+		)
+	end
+  
+	desc "Deploy to Store"
+	lane :store do
+        upload_to_play_store(
+			track: 'beta',
+			skip_upload_apk: true,	
+			track_promote_to: 'production',
+			version_code: $BUILD_NUMBER
+		)
+	end
+end
