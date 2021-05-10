@@ -1,0 +1,14 @@
+com/meks/deploymentPipelineReact/MainActivity.java
+ com.meks.deploymentPipelineReact.MainActivity
+ com.meks.deploymentPipelineReact.MainActivity$1
+com/meks/deploymentPipelineReact/BuildConfig.java
+ com.meks.deploymentPipelineReact.BuildConfig
+com/meks/deploymentPipelineReact/MainApplication.java
+ com.meks.deploymentPipelineReact.MainApplication
+ com.meks.deploymentPipelineReact.MainApplication$1
+com/meks/deploymentPipelineReact/generated/BasePackageList.java
+ com.meks.deploymentPipelineReact.generated.BasePackageList
+com/meks/deploymentPipelineReact/receivers/AppUpgraded.java
+ com.meks.deploymentPipelineReact.receivers.AppUpgraded
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

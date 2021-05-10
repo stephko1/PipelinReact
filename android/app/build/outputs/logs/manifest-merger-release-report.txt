@@ -1,0 +1,1015 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [:react-native-splash-screen] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:43:5-89:19
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:43:5-89:19
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d52929652b746a79ebdf4fd7156c77e9\jetified-react-native-0.61.5\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d52929652b746a79ebdf4fd7156c77e9\jetified-react-native-0.61.5\AndroidManifest.xml:11:5-20
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:41:5-83:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:41:5-83:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\8d5393314a2376afdd8bc8dd0c51ce16\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\8d5393314a2376afdd8bc8dd0c51ce16\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:26:5-20
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be8bc582cb0855f6987d91c778bf2103\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be8bc582cb0855f6987d91c778bf2103\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cecfe4d6e6407509f4fc915c967adefe\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cecfe4d6e6407509f4fc915c967adefe\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\6cf5bf94860534d139156e1f3c91f888\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\6cf5bf94860534d139156e1f3c91f888\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9b3bef5303363a1cc3b7cffa8e14aa44\jetified-firebase-core-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9b3bef5303363a1cc3b7cffa8e14aa44\jetified-firebase-core-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\539be1b59260f02e52e4b6a6ed458fdd\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\539be1b59260f02e52e4b6a6ed458fdd\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fe8c3e57a12dd534a0908e241aec2847\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fe8c3e57a12dd534a0908e241aec2847\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d9afe4fe9d21c5a84ddaf7978cab057c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d9afe4fe9d21c5a84ddaf7978cab057c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\4cbfacedec8362366b0f5dc951689234\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\4cbfacedec8362366b0f5dc951689234\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:12:5-24:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1d7673afe86e00ca98953c8cc677f982\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1d7673afe86e00ca98953c8cc677f982\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5a133b485b674a3fb47c604251abda90\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5a133b485b674a3fb47c604251abda90\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d5c19b843c29ad50b241e026605173de\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d5c19b843c29ad50b241e026605173de\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2c1b335a0014f64a2009a66d2773481b\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2c1b335a0014f64a2009a66d2773481b\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\239986108923ab84baa600ec5fd722f6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\239986108923ab84baa600ec5fd722f6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef9a09d54170293be47bf378a875263e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef9a09d54170293be47bf378a875263e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0121e2e609fd9bedbb4d42b09d431ea8\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0121e2e609fd9bedbb4d42b09d431ea8\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5e64dc70192a2d1b77f3687a00f843aa\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5e64dc70192a2d1b77f3687a00f843aa\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:11:5-16:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef9a09d54170293be47bf378a875263e\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:12:9-40
+	android:usesCleartextTraffic
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:17:9-50
+manifest
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:@react-native-community_async-storage] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:unimodules-react-native-adapter] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:20:1-91:12
+MERGED from [:react-native-community_async-storage] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-analytics] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter-analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-crashes] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter-crashes\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:bugsnag-react-native] C:\Users\steph\Downloads\rakning-c19-app\node_modules\bugsnag-react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d52929652b746a79ebdf4fd7156c77e9\jetified-react-native-0.61.5\AndroidManifest.xml:2:1-13:12
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:20:1-85:12
+MERGED from [:expo-permissions] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\8d5393314a2376afdd8bc8dd0c51ce16\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9a064482c2399dd416be03d58cc18884\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be8bc582cb0855f6987d91c778bf2103\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-app-loader-provider] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-localization] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-localization\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-secure-store] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-secure-store\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-web-browser\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d0e1300e7b0daf23371a8875f345ef48\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\62cbeb242f8bfa58a11c096daa66d249\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c933ab97d92b4a9cd6e335701a4c1ac8\transition-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\bd1d2e0e979bb2bb46cee7ae75bf3923\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f326f5d0b0aea57196a9de482700c94e\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\40f4a2ad496a12e6966b3f0c7c23248e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05b0ad78dde753c012fe08054e5fcbaf\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cecfe4d6e6407509f4fc915c967adefe\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\6cf5bf94860534d139156e1f3c91f888\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9a377dcf967587d95a48c584c2c91960\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9b3bef5303363a1cc3b7cffa8e14aa44\jetified-firebase-core-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\539be1b59260f02e52e4b6a6ed458fdd\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fe8c3e57a12dd534a0908e241aec2847\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d9afe4fe9d21c5a84ddaf7978cab057c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\3a858336cdd53b04c0672ff5f7bd7858\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5d70545c6390b81e52ce280d758e570e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\525328cf50543674efdeb0f6081dd364\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a2a0453f3f7362eb50b894d101692a23\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fcd6077acc07f9f271f12ca39ccbaaa7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.bugsnag:bugsnag-android:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef8ea716f85827a00e103974980238a2\jetified-bugsnag-android-4.22.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.bugsnag:bugsnag-plugin-android-anr:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c3dd0190f6e64cd8f085ff7252f20591\jetified-bugsnag-plugin-android-anr-4.22.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.bugsnag:bugsnag-plugin-android-ndk:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2f543c4716e160b82511ccf1a8d16164\jetified-bugsnag-plugin-android-ndk-4.22.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\4cbfacedec8362366b0f5dc951689234\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1d7673afe86e00ca98953c8cc677f982\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5a133b485b674a3fb47c604251abda90\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d5c19b843c29ad50b241e026605173de\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2c1b335a0014f64a2009a66d2773481b\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\239986108923ab84baa600ec5fd722f6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8d04ad31210a8597f21244dd28469f9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\3a7836e0a149979d483e557837822471\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a6e8a985aeee6bd36321698381711dfb\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f83f2ff916202df9aae3a226d59d50ff\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9e6be7361665b8e58db0473c21b9f9cf\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be3e2b605abc3b0572be07fbd1b65223\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\98a3d960bc92995711060279c8be8336\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cdf3ca7f0da26a1d7176d8db6f26c902\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f27a5ec7b2394ce2e06e5b3e2cea671a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef9a09d54170293be47bf378a875263e\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5b1a1dd193f50d1285fca384e1cada24\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fed477c694fbd7b1f366b585ca1c780b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\56830553fb34dd111281e481052070c5\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1ec0c150b707fe04d70a07d829feee40\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\88f0232ddef07174d7bb8f9f54b921bf\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0121e2e609fd9bedbb4d42b09d431ea8\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9dd639db097ed3b551a144e8092b834f\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1ad83f2d8f02e10fbe58c20f98c6e33f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1afa99c2733aa26aebd1241b764551b0\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\267fdf5df9654f8e5b6388bfe5f7578a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\edc0f7f5959b77f2da9ac16e01860bb2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b3554c7b6348e68033ecb34f47bfab81\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0fa0ad647dcfeda800ab92e7de16f388\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b6f82f732c5ffb1b09c62d2533dbbd35\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cbafebb5d6c2ab3c250a95470184fe6b\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9c7a10ea278aee730450a2cc566a71d4\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9aea0abff5cbf92c7917915a35bb762d\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1867b122da5e7f84ec46564595e5f2b1\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\adf90659ca591d72f8e8d6f863d63ae5\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5e64dc70192a2d1b77f3687a00f843aa\jetified-soloader-0.6.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2306a5699c86db651ea49749b7e58c5f\jetified-logback-android-1.1.1-9\AndroidManifest.xml:2:1-11:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:2:1-30:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\e9a90eaf89c7a6b2a21bdfd9440cb383\jetified-appcenter-react-native-3.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\adde9d03e5ccb93d134fbb53e1b4339f\jetified-appcenter-analytics-3.0.0\AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9d1d4c9aea8465c03034f8d68fa03371\jetified-appcenter-crashes-3.0.0\AndroidManifest.xml:6:1-15:12
+MERGED from [com.microsoft.appcenter:appcenter:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\496c7fa3ede08447eb05b12c3708b29c\jetified-appcenter-3.0.0\AndroidManifest.xml:6:1-18:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\47e80ed2a1bc638cf9d35c0c76635fee\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\93271cfb52cb85d11de7a30fce80e435\jetified-apktool-lib-1.4.4-5\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-67
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:28:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:24:5-67
+MERGED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:8:5-67
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:23:5-67
+MERGED from [com.microsoft.appcenter:appcenter:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\496c7fa3ede08447eb05b12c3708b29c\jetified-appcenter-3.0.0\AndroidManifest.xml:15:5-67
+MERGED from [com.microsoft.appcenter:appcenter:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\496c7fa3ede08447eb05b12c3708b29c\jetified-appcenter-3.0.0\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:33:5-81
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:33:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:31:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:31:5-81
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-79
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:32:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:32:5-79
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:8:22-76
+uses-sdk
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:41
+MERGED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:41
+MERGED from [:react-native-community_async-storage] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter-analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter-analytics\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter-crashes\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] C:\Users\steph\Downloads\rakning-c19-app\node_modules\appcenter-crashes\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:bugsnag-react-native] C:\Users\steph\Downloads\rakning-c19-app\node_modules\bugsnag-react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:bugsnag-react-native] C:\Users\steph\Downloads\rakning-c19-app\node_modules\bugsnag-react-native\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-svg\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d52929652b746a79ebdf4fd7156c77e9\jetified-react-native-0.61.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d52929652b746a79ebdf4fd7156c77e9\jetified-react-native-0.61.5\AndroidManifest.xml:7:5-9:41
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-44
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-44
+MERGED from [:expo-permissions] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\8d5393314a2376afdd8bc8dd0c51ce16\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\8d5393314a2376afdd8bc8dd0c51ce16\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9a064482c2399dd416be03d58cc18884\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9a064482c2399dd416be03d58cc18884\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be8bc582cb0855f6987d91c778bf2103\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be8bc582cb0855f6987d91c778bf2103\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:expo-app-loader-provider] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-localization] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-localization\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-localization] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-localization\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-secure-store] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-secure-store\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-secure-store] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-secure-store\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-web-browser\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-web-browser\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\steph\Downloads\rakning-c19-app\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d0e1300e7b0daf23371a8875f345ef48\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d0e1300e7b0daf23371a8875f345ef48\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\62cbeb242f8bfa58a11c096daa66d249\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\62cbeb242f8bfa58a11c096daa66d249\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c933ab97d92b4a9cd6e335701a4c1ac8\transition-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c933ab97d92b4a9cd6e335701a4c1ac8\transition-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\bd1d2e0e979bb2bb46cee7ae75bf3923\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\bd1d2e0e979bb2bb46cee7ae75bf3923\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f326f5d0b0aea57196a9de482700c94e\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f326f5d0b0aea57196a9de482700c94e\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\40f4a2ad496a12e6966b3f0c7c23248e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\40f4a2ad496a12e6966b3f0c7c23248e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05b0ad78dde753c012fe08054e5fcbaf\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05b0ad78dde753c012fe08054e5fcbaf\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cecfe4d6e6407509f4fc915c967adefe\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cecfe4d6e6407509f4fc915c967adefe\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\6cf5bf94860534d139156e1f3c91f888\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\6cf5bf94860534d139156e1f3c91f888\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9a377dcf967587d95a48c584c2c91960\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9a377dcf967587d95a48c584c2c91960\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9b3bef5303363a1cc3b7cffa8e14aa44\jetified-firebase-core-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9b3bef5303363a1cc3b7cffa8e14aa44\jetified-firebase-core-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\539be1b59260f02e52e4b6a6ed458fdd\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\539be1b59260f02e52e4b6a6ed458fdd\jetified-firebase-analytics-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fe8c3e57a12dd534a0908e241aec2847\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fe8c3e57a12dd534a0908e241aec2847\jetified-play-services-measurement-sdk-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d9afe4fe9d21c5a84ddaf7978cab057c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d9afe4fe9d21c5a84ddaf7978cab057c\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\3a858336cdd53b04c0672ff5f7bd7858\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\3a858336cdd53b04c0672ff5f7bd7858\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5d70545c6390b81e52ce280d758e570e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5d70545c6390b81e52ce280d758e570e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\525328cf50543674efdeb0f6081dd364\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\525328cf50543674efdeb0f6081dd364\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a2a0453f3f7362eb50b894d101692a23\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a2a0453f3f7362eb50b894d101692a23\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fcd6077acc07f9f271f12ca39ccbaaa7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fcd6077acc07f9f271f12ca39ccbaaa7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.bugsnag:bugsnag-android:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef8ea716f85827a00e103974980238a2\jetified-bugsnag-android-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-android:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef8ea716f85827a00e103974980238a2\jetified-bugsnag-android-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-android-anr:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c3dd0190f6e64cd8f085ff7252f20591\jetified-bugsnag-plugin-android-anr-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-android-anr:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c3dd0190f6e64cd8f085ff7252f20591\jetified-bugsnag-plugin-android-anr-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-android-ndk:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2f543c4716e160b82511ccf1a8d16164\jetified-bugsnag-plugin-android-ndk-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-plugin-android-ndk:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2f543c4716e160b82511ccf1a8d16164\jetified-bugsnag-plugin-android-ndk-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\4cbfacedec8362366b0f5dc951689234\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\4cbfacedec8362366b0f5dc951689234\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1d7673afe86e00ca98953c8cc677f982\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1d7673afe86e00ca98953c8cc677f982\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5a133b485b674a3fb47c604251abda90\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5a133b485b674a3fb47c604251abda90\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d5c19b843c29ad50b241e026605173de\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\d5c19b843c29ad50b241e026605173de\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2c1b335a0014f64a2009a66d2773481b\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2c1b335a0014f64a2009a66d2773481b\jetified-play-services-measurement-base-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\239986108923ab84baa600ec5fd722f6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\239986108923ab84baa600ec5fd722f6\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8d04ad31210a8597f21244dd28469f9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8d04ad31210a8597f21244dd28469f9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\3a7836e0a149979d483e557837822471\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\3a7836e0a149979d483e557837822471\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a6e8a985aeee6bd36321698381711dfb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a6e8a985aeee6bd36321698381711dfb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f83f2ff916202df9aae3a226d59d50ff\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f83f2ff916202df9aae3a226d59d50ff\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9e6be7361665b8e58db0473c21b9f9cf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9e6be7361665b8e58db0473c21b9f9cf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be3e2b605abc3b0572be07fbd1b65223\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\be3e2b605abc3b0572be07fbd1b65223\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\98a3d960bc92995711060279c8be8336\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\98a3d960bc92995711060279c8be8336\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cdf3ca7f0da26a1d7176d8db6f26c902\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cdf3ca7f0da26a1d7176d8db6f26c902\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f27a5ec7b2394ce2e06e5b3e2cea671a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f27a5ec7b2394ce2e06e5b3e2cea671a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef9a09d54170293be47bf378a875263e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef9a09d54170293be47bf378a875263e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5b1a1dd193f50d1285fca384e1cada24\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5b1a1dd193f50d1285fca384e1cada24\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fed477c694fbd7b1f366b585ca1c780b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\fed477c694fbd7b1f366b585ca1c780b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\56830553fb34dd111281e481052070c5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\56830553fb34dd111281e481052070c5\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1ec0c150b707fe04d70a07d829feee40\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1ec0c150b707fe04d70a07d829feee40\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\88f0232ddef07174d7bb8f9f54b921bf\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\88f0232ddef07174d7bb8f9f54b921bf\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0121e2e609fd9bedbb4d42b09d431ea8\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0121e2e609fd9bedbb4d42b09d431ea8\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9dd639db097ed3b551a144e8092b834f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9dd639db097ed3b551a144e8092b834f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1ad83f2d8f02e10fbe58c20f98c6e33f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1ad83f2d8f02e10fbe58c20f98c6e33f\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1afa99c2733aa26aebd1241b764551b0\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1afa99c2733aa26aebd1241b764551b0\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\267fdf5df9654f8e5b6388bfe5f7578a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\267fdf5df9654f8e5b6388bfe5f7578a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\edc0f7f5959b77f2da9ac16e01860bb2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\edc0f7f5959b77f2da9ac16e01860bb2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b3554c7b6348e68033ecb34f47bfab81\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b3554c7b6348e68033ecb34f47bfab81\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0fa0ad647dcfeda800ab92e7de16f388\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0fa0ad647dcfeda800ab92e7de16f388\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b6f82f732c5ffb1b09c62d2533dbbd35\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b6f82f732c5ffb1b09c62d2533dbbd35\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cbafebb5d6c2ab3c250a95470184fe6b\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cbafebb5d6c2ab3c250a95470184fe6b\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9c7a10ea278aee730450a2cc566a71d4\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9c7a10ea278aee730450a2cc566a71d4\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9aea0abff5cbf92c7917915a35bb762d\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9aea0abff5cbf92c7917915a35bb762d\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1867b122da5e7f84ec46564595e5f2b1\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1867b122da5e7f84ec46564595e5f2b1\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\adf90659ca591d72f8e8d6f863d63ae5\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\adf90659ca591d72f8e8d6f863d63ae5\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5e64dc70192a2d1b77f3687a00f843aa\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5e64dc70192a2d1b77f3687a00f843aa\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2306a5699c86db651ea49749b7e58c5f\jetified-logback-android-1.1.1-9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\2306a5699c86db651ea49749b7e58c5f\jetified-logback-android-1.1.1-9\AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:8:5-10:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\e9a90eaf89c7a6b2a21bdfd9440cb383\jetified-appcenter-react-native-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\e9a90eaf89c7a6b2a21bdfd9440cb383\jetified-appcenter-react-native-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\adde9d03e5ccb93d134fbb53e1b4339f\jetified-appcenter-analytics-3.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\adde9d03e5ccb93d134fbb53e1b4339f\jetified-appcenter-analytics-3.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9d1d4c9aea8465c03034f8d68fa03371\jetified-appcenter-crashes-3.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\9d1d4c9aea8465c03034f8d68fa03371\jetified-appcenter-crashes-3.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\496c7fa3ede08447eb05b12c3708b29c\jetified-appcenter-3.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.microsoft.appcenter:appcenter:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\496c7fa3ede08447eb05b12c3708b29c\jetified-appcenter-3.0.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\47e80ed2a1bc638cf9d35c0c76635fee\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\47e80ed2a1bc638cf9d35c0c76635fee\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\93271cfb52cb85d11de7a30fce80e435\jetified-apktool-lib-1.4.4-5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\93271cfb52cb85d11de7a30fce80e435\jetified-apktool-lib-1.4.4-5\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+activity#com.meks.deploymentPipelineReact.MainActivity
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:21:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:22:13-83
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:26:27-74
+receiver#com.meks.deploymentPipelineReact.receivers.AppUpgraded
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:29:19-56
+intent-filter#action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:30:13-32:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:31:17-84
+	android:name
+		ADDED from C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:31:25-81
+uses-permission#android.hardware.location
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:29:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:31:5-68
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:32:5-79
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:9:5-79
+MERGED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b183df6465c8d13146c74c7d1e496d06\jetified-play-services-measurement-sdk-api-17.2.1\AndroidManifest.xml:24:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:13:5-79
+MERGED from [com.microsoft.appcenter:appcenter:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\496c7fa3ede08447eb05b12c3708b29c\jetified-appcenter-3.0.0\AndroidManifest.xml:16:5-79
+MERGED from [com.microsoft.appcenter:appcenter:3.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\496c7fa3ede08447eb05b12c3708b29c\jetified-appcenter-3.0.0\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:35:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:33:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:35:22-86
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:36:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:34:5-94
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:16:5-94
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:36:22-91
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:35:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:37:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:38:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:36:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:36:5-77
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:38:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:39:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-78
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:39:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:40:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:38:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:40:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:41:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:39:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:39:5-77
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-77
+MERGED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:41:22-74
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:44:9-55:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:42:9-53:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:42:9-53:19
+	android:process
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-36
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-66
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:29
+action#android.content.SyncAdapter
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-70
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:49:25-67
+meta-data#android.content.SyncAdapter
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-54:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-52:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-52:55
+	android:resource
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:54:17-52
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-59
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-64:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:54:9-62:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:54:9-62:19
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:56:18-80
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-59:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:58:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-63:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-61:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-61:57
+	android:resource
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:63:17-54
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:62:17-69
+provider#com.marianhello.bgloc.data.provider.LocationContentProvider
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-70:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:64:9-68:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:64:9-68:39
+	android:authorities
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-75
+	android:syncable
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-87
+service#com.marianhello.bgloc.service.LocationServiceImpl
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:72:9-75:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:70:9-73:40
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:70:9-73:40
+	android:enabled
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-77
+service#com.marianhello.bgloc.react.headless.HeadlessService
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:76:9-79:40
+	android:enabled
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:78:13-35
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-37
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:77:13-80
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:81:9-88:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:75:9-82:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\common\build\intermediates\library_manifest\release\AndroidManifest.xml:75:9-82:20
+	android:enabled
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:83:13-35
+	android:exported
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:82:13-71
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:85:13-87:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:86:17-79
+	android:name
+		ADDED from [:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:86:25-76
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-84
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\631e6db4bc7e8ef01215e75e9e66c3ce\jetified-play-services-iid-15.0.1\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:23:22-79
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-74
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+MERGED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:13:9-17:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:38:13-78
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\a4bf88e4c569be9937d81fea89d7b171\jetified-play-services-measurement-impl-17.2.1\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:49:13-87
+uses-library#android.test.runner
+ADDED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:12:9-14:40
+	android:required
+		ADDED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:13:13-47
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:21:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:20:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:13:13-83
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:15:22-95
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:26:13-120

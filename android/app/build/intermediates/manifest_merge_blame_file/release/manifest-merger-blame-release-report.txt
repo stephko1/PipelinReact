@@ -1,0 +1,464 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.meks.deploymentPipelineReact"
+4    android:versionCode="2"
+5    android:versionName="2.1.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <!-- These require runtime permissions on M -->
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:7:5-81
+14-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:8:5-79
+15-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:8:22-76
+16    <uses-permission android:name="android.hardware.location" />
+16-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-65
+16-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:29:22-62
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:31:5-68
+17-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:31:22-65
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:32:5-79
+18-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:32:22-76
+19    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+19-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:35:5-89
+19-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:35:22-86
+20    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+20-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:36:5-94
+20-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:36:22-91
+21    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+21-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-81
+21-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:37:22-78
+22    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+22-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:38:5-77
+22-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:38:22-74
+23    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+23-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:39:5-78
+23-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:39:22-75
+24    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+24-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:40:5-80
+24-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:40:22-77
+25    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+25-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:41:5-77
+25-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:41:22-74
+26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+26-->[com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:23:5-82
+26-->[com.google.android.gms:play-services-gcm:15.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b62759cf611c14e4638f5c7896d55908\jetified-play-services-gcm-15.0.1\AndroidManifest.xml:23:22-79
+27    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+27-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+27-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:22-78
+28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
+28-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:22-77
+29    <uses-permission android:name="android.permission.STORAGE" />
+29-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-66
+29-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-63
+30    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+30-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:5-110
+30-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:26:22-107
+31    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" /> <!-- END OPTIONAL PERMISSIONS -->
+31-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:15:5-98
+31-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:15:22-95
+32    <application
+33        android:name="com.meks.deploymentPipelineReact.MainApplication"
+33-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:12:9-40
+34        android:allowBackup="false"
+34-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:16:9-36
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.1.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ef9a09d54170293be47bf378a875263e\core-1.1.0\AndroidManifest.xml:24:18-86
+36        android:extractNativeLibs="false"
+37        android:icon="@mipmap/ic_launcher"
+37-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:14:9-43
+38        android:label="@string/app_name"
+38-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:13:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:15:9-54
+40        android:theme="@style/AppTheme"
+40-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:18:9-40
+41        android:usesCleartextTraffic="false" >
+41-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:17:9-50
+42        <activity
+42-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:19:9-28:20
+43            android:name="com.meks.deploymentPipelineReact.MainActivity"
+43-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:20:13-41
+44            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+44-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:22:13-83
+45            android:label="@string/app_name"
+45-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:21:13-45
+46            android:windowSoftInputMode="adjustResize" >
+46-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:23:13-55
+47            <intent-filter>
+47-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:24:13-27:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:25:17-69
+48-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:25:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:26:17-77
+50-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:26:27-74
+51            </intent-filter>
+52        </activity>
+53
+54        <receiver android:name="com.meks.deploymentPipelineReact.receivers.AppUpgraded" >
+54-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:29:9-33:20
+54-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:29:19-56
+55            <intent-filter>
+55-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:30:13-32:29
+56                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+56-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:31:17-84
+56-->C:\Users\steph\Downloads\rakning-c19-app\android\app\src\main\AndroidManifest.xml:31:25-81
+57            </intent-filter>
+58        </receiver>
+59
+60        <service
+60-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:44:9-55:19
+61            android:name="com.marianhello.bgloc.sync.SyncService"
+61-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-66
+62            android:exported="true"
+62-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-36
+63            android:process=":sync" >
+63-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-36
+64            <intent-filter>
+64-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:29
+65                <action android:name="android.content.SyncAdapter" />
+65-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-70
+65-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:49:25-67
+66            </intent-filter>
+67
+68            <meta-data
+68-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-54:55
+69                android:name="android.content.SyncAdapter"
+69-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-59
+70                android:resource="@xml/syncadapter" />
+70-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:54:17-52
+71        </service>
+72        <service android:name="com.marianhello.bgloc.sync.AuthenticatorService" >
+72-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-64:19
+72-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:56:18-80
+73            <intent-filter>
+73-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-59:29
+74                <action android:name="android.accounts.AccountAuthenticator" />
+74-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:58:17-80
+74-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:58:25-77
+75            </intent-filter>
+76
+77            <meta-data
+77-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-63:57
+78                android:name="android.accounts.AccountAuthenticator"
+78-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:62:17-69
+79                android:resource="@xml/authenticator" />
+79-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:63:17-54
+80        </service>
+81
+82        <provider
+82-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-70:39
+83            android:name="com.marianhello.bgloc.data.provider.LocationContentProvider"
+83-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-87
+84            android:authorities="@string/mauron85_bgloc_content_authority"
+84-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-75
+85            android:exported="false"
+85-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-37
+86            android:syncable="true" />
+86-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-36
+87
+88        <service
+88-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:72:9-75:40
+89            android:name="com.marianhello.bgloc.service.LocationServiceImpl"
+89-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-77
+90            android:enabled="true"
+90-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-35
+91            android:exported="false" />
+91-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-37
+92        <service
+92-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:76:9-79:40
+93            android:name="com.marianhello.bgloc.react.headless.HeadlessService"
+93-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:77:13-80
+94            android:enabled="true"
+94-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:78:13-35
+95            android:exported="false" />
+95-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-37
+96
+97        <receiver
+97-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:81:9-88:20
+98            android:name="com.marianhello.bgloc.BootCompletedReceiver"
+98-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:82:13-71
+99            android:enabled="true"
+99-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:83:13-35
+100            android:exported="true" >
+100-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:84:13-36
+101            <intent-filter>
+101-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:85:13-87:29
+102                <action android:name="android.intent.action.BOOT_COMPLETED" />
+102-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:86:17-79
+102-->[:mauron85_react-native-background-geolocation] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@mauron85\react-native-background-geolocation\android\lib\build\intermediates\library_manifest\release\AndroidManifest.xml:86:25-76
+103            </intent-filter>
+104        </receiver>
+105
+106        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+106-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-111
+106-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:18-108
+107        <service
+107-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:9-23:19
+108            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+108-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-95
+109            android:exported="false" >
+109-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-37
+110            <intent-filter>
+110-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-22:29
+111                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+111-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:17-78
+111-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:25-75
+112            </intent-filter>
+113        </service>
+114
+115        <receiver
+115-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-32:20
+116            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+116-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-96
+117            android:exported="true"
+117-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-36
+118            android:permission="com.google.android.c2dm.permission.SEND" >
+118-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-73
+119            <intent-filter>
+119-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-31:29
+120                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+120-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:17-81
+120-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:25-78
+121            </intent-filter>
+122        </receiver>
+123
+124        <meta-data
+124-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:34:9-36:36
+125            android:name="firebase_messaging_auto_init_enabled"
+125-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-64
+126            android:value="true" />
+126-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-33
+127        <meta-data
+127-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:37:9-39:32
+128            android:name="com.google.firebase.messaging.default_notification_channel_id"
+128-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-89
+129            android:value="" />
+129-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-29
+130        <meta-data
+130-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:40:9-42:47
+131            android:name="com.google.firebase.messaging.default_notification_color"
+131-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-84
+132            android:resource="@color/white" />
+132-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-44
+133
+134        <provider
+134-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-20:20
+135            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+135-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-83
+136            android:authorities="com.meks.deploymentPipelineReact.fileprovider"
+136-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-64
+137            android:exported="false"
+137-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-37
+138            android:grantUriPermissions="true" >
+138-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-47
+139            <meta-data
+139-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:63
+140                android:name="android.support.FILE_PROVIDER_PATHS"
+140-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
+141                android:resource="@xml/file_provider_paths" />
+141-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-60
+142        </provider>
+143
+144        <service
+144-->[:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-18:40
+145            android:name="expo.modules.location.services.LocationTaskService"
+145-->[:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-78
+146            android:exported="false" />
+146-->[:expo-location] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-location\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-37
+147
+148        <provider
+148-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-27:20
+149            android:name="expo.modules.filesystem.FileSystemFileProvider"
+149-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-74
+150            android:authorities="com.meks.deploymentPipelineReact.FileSystemFileProvider"
+150-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-74
+151            android:exported="false"
+151-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-37
+152            android:grantUriPermissions="true" >
+152-->[:expo-file-system] C:\Users\steph\Downloads\rakning-c19-app\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:22:13-47
+153            <meta-data
+153-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:63
+154                android:name="android.support.FILE_PROVIDER_PATHS"
+154-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:17-67
+155                android:resource="@xml/file_system_provider_paths" />
+155-->[:react-native-webview] C:\Users\steph\Downloads\rakning-c19-app\node_modules\react-native-webview\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:17-60
+156        </provider>
+157        <!--
+158             FirebaseMessagingService performs security checks at runtime,
+159             but set to not exported to explicitly avoid allowing another app to call it.
+160        -->
+161        <service
+161-->[com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:28:9-34:19
+162            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+162-->[com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:29:13-82
+163            android:exported="false" >
+163-->[com.google.firebase:firebase-messaging:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\5c55a98cfa5bb444eeebcc60474e77f2\jetified-firebase-messaging-20.0.1\AndroidManifest.xml:30:13-37
+164            <intent-filter android:priority="-500" >
+164-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-22:29
+165                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+165-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:17-78
+165-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:25-75
+166            </intent-filter>
+167        </service>
+168        <service
+168-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:27:9-33:19
+169            android:name="com.google.firebase.components.ComponentDiscoveryService"
+169-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:28:13-84
+170            android:directBootAware="true"
+170-->[com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:15:13-43
+171            android:exported="false" >
+171-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:29:13-37
+172            <meta-data
+172-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:30:13-32:85
+173                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+173-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:31:17-139
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->[com.google.android.gms:play-services-measurement-api:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\0b4578fbe775e89125666cb8b3bd6d8e\jetified-play-services-measurement-api-17.2.1\AndroidManifest.xml:32:17-82
+175            <meta-data
+175-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:32:13-34:85
+176                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+176-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:33:17-96
+177                android:value="com.google.firebase.components.ComponentRegistrar" />
+177-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:34:17-82
+178        </service>
+179
+180        <receiver
+180-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:37:9-44:20
+181            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+181-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:38:13-78
+182            android:exported="true"
+182-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:39:13-36
+183            android:permission="com.google.android.c2dm.permission.SEND" >
+183-->[com.google.firebase:firebase-iid:20.0.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\05ea3fce3ac470f54a2dd4f229ce7567\jetified-firebase-iid-20.0.1\AndroidManifest.xml:40:13-73
+184            <intent-filter>
+184-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-31:29
+185                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+185-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:17-81
+185-->[:react-native-firebase_messaging] C:\Users\steph\Downloads\rakning-c19-app\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\release\AndroidManifest.xml:30:25-78
+186            </intent-filter>
+187        </receiver>
+188        <receiver
+188-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:29:9-33:20
+189            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+189-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:30:13-85
+190            android:enabled="true"
+190-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:31:13-35
+191            android:exported="false" >
+191-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:32:13-37
+192        </receiver>
+193        <receiver
+193-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:34:9-42:20
+194            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+194-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:35:13-100
+195            android:enabled="true"
+195-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:36:13-35
+196            android:exported="true"
+196-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:37:13-36
+197            android:permission="android.permission.INSTALL_PACKAGES" >
+197-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:38:13-69
+198            <intent-filter>
+198-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:39:13-41:29
+199                <action android:name="com.android.vending.INSTALL_REFERRER" />
+199-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:17-79
+199-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:40:25-76
+200            </intent-filter>
+201        </receiver>
+202
+203        <service
+203-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:44:9-47:40
+204            android:name="com.google.android.gms.measurement.AppMeasurementService"
+204-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:45:13-84
+205            android:enabled="true"
+205-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:46:13-35
+206            android:exported="false" />
+206-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:47:13-37
+207        <service
+207-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:48:9-52:72
+208            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+208-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:49:13-87
+209            android:enabled="true"
+209-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:50:13-35
+210            android:exported="false"
+210-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:51:13-37
+211            android:permission="android.permission.BIND_JOB_SERVICE" />
+211-->[com.google.android.gms:play-services-measurement:17.2.1] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\f7585662e7767cf9fb75bb7594ea3c6e\jetified-play-services-measurement-17.2.1\AndroidManifest.xml:52:13-69
+212
+213        <uses-library
+213-->[com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:12:9-14:40
+214            android:name="android.test.runner"
+214-->[com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:13:13-47
+215            android:required="false" />
+215-->[com.bugsnag:bugsnag-android-core:4.22.3] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\cf124f9cec321457b92bbb1d7bd5cbed\jetified-bugsnag-android-core-4.22.3\AndroidManifest.xml:14:13-37
+216
+217        <provider
+217-->[com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:19:9-23:39
+218            android:name="com.google.firebase.provider.FirebaseInitProvider"
+218-->[com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:20:13-77
+219            android:authorities="com.meks.deploymentPipelineReact.firebaseinitprovider"
+219-->[com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:21:13-72
+220            android:exported="false"
+220-->[com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:22:13-37
+221            android:initOrder="100" />
+221-->[com.google.firebase:firebase-common:19.2.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\c8ebba360e12b3236b5074663c3b06be\jetified-firebase-common-19.2.0\AndroidManifest.xml:23:13-36
+222
+223        <activity
+223-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+224            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+224-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+225            android:exported="false"
+225-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+226            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+226-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\ba6d3c0afb13a8c287d4e8d078801d97\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+227
+228        <meta-data
+228-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+229            android:name="com.google.android.gms.version"
+229-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+230            android:value="@integer/google_play_services_version" />
+230-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\da551104d35d0cfae5ee8a7f6564e0c6\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+231
+232        <activity
+232-->[com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:12:9-15:59
+233            android:name="com.intentfilter.androidpermissions.PermissionsActivity"
+233-->[com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:13:13-83
+234            android:excludeFromRecents="true"
+234-->[com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:14:13-46
+235            android:theme="@style/AppTheme.Transparent" />
+235-->[com.intentfilter:android-permissions:0.1.7] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\b5b0cb20eb391fc4e116f7fab83fa6b9\jetified-android-permissions-0.1.7\AndroidManifest.xml:15:13-56
+236
+237        <service
+237-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:19:9-21:40
+238            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
+238-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:20:13-132
+239            android:exported="false" />
+239-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:21:13-37
+240        <service
+240-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:22:9-24:40
+241            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
+241-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:23:13-127
+242            android:exported="false" />
+242-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:24:13-37
+243        <service
+243-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:25:9-27:40
+244            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
+244-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:26:13-120
+245            android:exported="false" />
+245-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\steph\.gradle\caches\transforms-2\files-2.1\1fa3ace727ab2940ee778507568ce547\jetified-library-3.2.11\AndroidManifest.xml:27:13-37
+246    </application>
+247
+248</manifest>

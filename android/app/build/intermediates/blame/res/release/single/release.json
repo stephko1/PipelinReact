@@ -1,0 +1,1218 @@
+[
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sv.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sv.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gu.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gu.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ne.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ne.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_fi.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_fi.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bd.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bd.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tt.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tt.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mv.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mv.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_li.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_li.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_iq.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_iq.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_br.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_br.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ca.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ca.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_kz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_kz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_va.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_va.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_fj.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_fj.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_jo.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_jo.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mh.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mh.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gt.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gt.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gf.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gf.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_co.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_co.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ky.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ky.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_at.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_at.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_csscolorkeywords_colors.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_csscolorkeywords_colors.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_be.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_be.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_vn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_vn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_components_phoneinput_resources_numbertype.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_components_phoneinput_resources_numbertype.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_td.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_td.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ht.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ht.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sh.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sh.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_lk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_lk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_do.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_do.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bs.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bs.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ly.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ly.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_af.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_af.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mu.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mu.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_nu.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_nu.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_us.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_us.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_nc.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_nc.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sx.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sx.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_fk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_fk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cd.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cd.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tv.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tv.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_kn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_kn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_yt.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_yt.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mt.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mt.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_nf.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_nf.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pl.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pl.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_nr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_nr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ar.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ar.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ag.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ag.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_in.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_in.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_assets_fonts_opensans_opensansbold.ttf.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_fonts_opensans_opensansbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mf.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mf.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_iosmaps.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_iosmaps.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gh.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gh.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_qa.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_qa.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sj.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sj.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_au.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_au.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ad.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ad.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_dm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_dm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_jp.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_jp.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_domserializer_foreignnames.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_googlemaps.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_googlemaps.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ge.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ge.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pa.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pa.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_it.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_it.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_eh.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_eh.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_lt.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_lt.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ax.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ax.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ru.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ru.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gy.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gy.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ba.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ba.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ie.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ie.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_kp.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_kp.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_fm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_fm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_na.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_na.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_th.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_th.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_dk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_dk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mq.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mq.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gd.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gd.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ai.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ai.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ki.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ki.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_se.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_se.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ps.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ps.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_to.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_to.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sl.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sl.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_vc.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_vc.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ug.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ug.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ng.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ng.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_md.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_md.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_fr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_fr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pt.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pt.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_splash.xml.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_as.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_as.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bf.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bf.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ua.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ua.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cy.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cy.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_lt.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_lt.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_me.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_me.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_io.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_io.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ls.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ls.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_et.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_et.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_vu.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_vu.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gi.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gi.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_jm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_jm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_assets_fonts_opensans_opensansextrabold.ttf.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_fonts_opensans_opensansextrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\app.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_vi.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_vi.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ec.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ec.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tc.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tc.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_components_phoneinput_resources_countries.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_components_phoneinput_resources_countries.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cc.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bq.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bq.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_nodeemoji_lib_emoji.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_nodeemoji_lib_emoji.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_assets_fonts_opensans_opensansregular.ttf.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_fonts_opensans_opensansregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_py.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_py.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_landlaeknir.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_landlaeknir.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_cssselect_lib_procedure.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_cssselect_lib_procedure.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ph.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ph.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_hr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_hr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mp.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mp.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_id.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_id.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_nl.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_nl.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_zm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_zm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_covidicon.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_covidicon.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ks.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ks.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ci.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ci.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tl.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tl.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_uy.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_uy.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_es.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_es.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mo.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mo.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_lb.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_lb.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ee.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ee.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_by.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_by.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_forward.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_fa.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_fa.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bl.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bl.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_vg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_vg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_kr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_kr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sa.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sa.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ma.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ma.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ch.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ch.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_is.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_is.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_lr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_lr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_am.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_am.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_wf.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_wf.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_la.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_la.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_assets_fonts_opensans_opensanssemibold.ttf.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_fonts_opensans_opensanssemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pf.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pf.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ke.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ke.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_er.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_er.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_so.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_so.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cv.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cv.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_az.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_az.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_pl.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_pl.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_rs.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_rs.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ao.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ao.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_je.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_je.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ro.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ro.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_de.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_de.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_en.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_en.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_al.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_al.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cu.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cu.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sb.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sb.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_hn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_hn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativecountrypickermodal_lib_assets_data_countriesemoji.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativecountrypickermodal_lib_assets_data_countriesemoji.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gp.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gp.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ws.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ws.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cx.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cx.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_lc.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_lc.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bj.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bj.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_fr.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_fr.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tj.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tj.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_hk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_hk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ni.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ni.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ml.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ml.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_no.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_no.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_es.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_es.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gb.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gb.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_nz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_nz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_fa.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_fa.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ve.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ve.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_ar.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_ar.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pk.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pk.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sd.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sd.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_dj.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_dj.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_my.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_my.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_th.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_th.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_kh.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_kh.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_om.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_om.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_im.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_im.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bh.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bh.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_kw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_kw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gr.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gr.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ye.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ye.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_np.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_np.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mc.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mc.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bo.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bo.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ss.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ss.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_ph.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_ph.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cf.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cf.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_zw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_zw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_il.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_il.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_eg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_eg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mx.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mx.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_is.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_is.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_lu.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_lu.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gq.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gq.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bi.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bi.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sy.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sy.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_cl.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_cl.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_re.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_re.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bb.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bb.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_aw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_aw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_almannavarnir.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_almannavarnir.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_lv.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_lv.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bt.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_gw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_gw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ir.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ir.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_bugsnagreactnative_package.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_bugsnagreactnative_package.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_jp.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_jp.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_hu.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_hu.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_mm.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_mm.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ae.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ae.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ga.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ga.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_fo.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_fo.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_za.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_za.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_pe.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_pe.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_dz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_dz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ck.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ck.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_rw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_rw.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_si.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_si.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_ms.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_ms.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_kg.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_kg.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_km.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_km.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_src_locales_ru.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_locales_ru.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_csstree_dist_defaultsyntax.json.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_csstree_dist_defaultsyntax.json"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_uz.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_uz.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_sc.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_sc.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_bn.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_bn.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_st.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_st.png"
+    },
+    {
+        "merged": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_flags_tw.png.flat",
+        "source": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_flags_tw.png"
+    }
+]
