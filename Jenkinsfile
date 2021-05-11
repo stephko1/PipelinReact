@@ -6,7 +6,7 @@ pipeline {
 				checkout(
                     [
                         $class: 'GitSCM',
-                        branches: ['main'],
+                        branches: [],
                         browser: [],
                         doGenerateSubmoduleConfigurations: false,
                         extensions: [],
