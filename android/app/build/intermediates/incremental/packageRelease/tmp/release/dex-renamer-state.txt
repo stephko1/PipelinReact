@@ -1,7 +1,7 @@
-#Mon May 10 23:52:34 CEST 2021
-base.0=C\:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+#Tue May 11 12:12:16 CEST 2021
+base.1=C\:\\Users\\steph\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\Pipeline\\android\\app\\build\\intermediates\\dex\\release\\out\\classes2.dex
 path.1=classes2.dex
+base.0=C\:\\Users\\steph\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\Pipeline\\android\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
 renamed.1=classes2.dex
-path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\dex\\release\\out\\classes2.dex
+path.0=classes.dex

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\steph\\Downloads\\rakning-c19-app\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Users\\steph\\AppData\\Local\\Jenkins\\.jenkins\\workspace\\Pipeline\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\steph\\.gradle\\caches\\transforms-2\\files-2.1\\ef9a09d54170293be47bf378a875263e\\core-1.1.0\\res\\values-lo\\values-lo.xml",

@@ -1,5 +1,16 @@
-apply plugin: "com.android.application"
-
+plugins {
+    id 'com.android.application'
+    id "org.sonarqube" version "3.2.0"
+}
+sonarqube {
+    properties {
+        property 'sonar.projectName', 'Pipeline Android'
+	property 'sonar.login', '19ce1d5040d6c4df7343170fb2ff825faddbf54c'
+    }
+}
+def computeVersionCode() {
+    return Integer.valueOf(System.env.BUILD_NUMBER ?: 0)
+}
 import com.android.build.OutputFile
 
 /**
@@ -103,7 +114,7 @@ android {
         applicationId 'com.meks.deploymentPipelineReact'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
+        versionCode computeVersionCode()
         versionName "2.1.2"
     }
     signingConfigs {

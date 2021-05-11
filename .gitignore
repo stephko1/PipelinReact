@@ -25,11 +25,11 @@ ios/Pods
 
 # Android/IntelliJ
 #
-#build/
-#.idea
-#.gradle
+build/
+.idea
+.gradle
 #local.properties
-#*.iml
+*.iml
 
 # node.js
 #

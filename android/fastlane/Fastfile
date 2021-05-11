@@ -16,12 +16,12 @@ default_platform(:android)
 platform :android do
 
 	desc 'Build and Sign the Android App'
-	lane :build do
+	lane :build do |options|
 		gradle(
 			task: 'assemble', 
 			build_type: 'Release', 
 			properties: {
-				"VERSION_CODE" => $BUILD_NUMBER,
+				"VERSION_CODE" => options[:build_number],
 				"ANDROID_SDK_ROOT" => "C:/Users/steph/AppData/Local/Android/Sdk",
 				"android.injected.signing.store.file" => "C:/Users/steph/Desktop/keys/keystore.jks",
 				"android.injected.signing.store.password" => "X7CKBHA5wChxgWA0mwnz",
@@ -36,12 +36,22 @@ platform :android do
 	  gradle(task: "test")
 	end
 
-
+	desc "Deploy to Internal"
+	lane :internal do
+		upload_to_play_store(
+			track: 'internal',
+			apk:'./app/release/app-release.apk',
+			version_code: $BUILD_NUMBER
+		)
+	end
+	
 	desc "Deploy to Alpha"
 	lane :alpha do
+		internal
 		upload_to_play_store(
-			track: 'alpha',
+			track: 'internal',
 			apk:'./app/release/app-release.apk',
+			track_promote_to: 'alpha',
 			version_code: $BUILD_NUMBER
 		)
 	end
