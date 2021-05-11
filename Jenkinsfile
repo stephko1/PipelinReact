@@ -3,8 +3,6 @@ pipeline {
     stages {
         stage('Git') {
             steps {
-				dir("Android"){}
-                //git url:'https://github.com/stephko1/PipelineWindows.git', branch:'main'
                 git url:'https://github.com/stephko1/PipelinReact.git', branch:'main'
                 //node('Mac') {
                     //git url:'https://github.com/stephko1/PipelineWindows.git', branch:'main'
