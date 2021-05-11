@@ -1,9 +1,9 @@
 pipeline {
     agent any
+	triggers { pollSCM('H/2 * * * *') }
     stages {
         stage('Git') {
             steps {
-			
                 git url:'https://github.com/stephko1/PipelinReact.git', branch:'main'
                 //node('Mac') {
                     //git url:'https://github.com/stephko1/PipelineWindows.git', branch:'main'
