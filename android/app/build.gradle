@@ -9,7 +9,7 @@ sonarqube {
     }
 }
 def computeVersionCode() {
-    return Integer.valueOf(System.env.BUILD_NUMBER ?: 0)
+    return Integer.valueOf(System.env.BUILD_NUMBER ?: 3)
 }
 import com.android.build.OutputFile
 
