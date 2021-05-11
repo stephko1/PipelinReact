@@ -3,22 +3,7 @@ pipeline {
     stages {
         stage('Git') {
             steps {
-				checkout(
-                    [
-                        $class: 'GitSCM',
-                        branches: [],
-                        browser: [],
-                        doGenerateSubmoduleConfigurations: false,
-                        extensions: [],
-                        submoduleCfg: [],
-                        userRemoteConfigs: [
-                            [
-                                url: 'https://github.com/stephko1/PipelinReact.git'
-                            ]
-                        ]
-                    ]
-                )
-                //git url:'https://github.com/stephko1/PipelinReact.git', branch:'main'
+                git url:'https://github.com/stephko1/PipelinReact.git', branch:'main'
                 //node('Mac') {
                     //git url:'https://github.com/stephko1/PipelineWindows.git', branch:'main'
                 //}
