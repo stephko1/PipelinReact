@@ -75,6 +75,7 @@ pipeline {
                 stage('Alpha Android'){
                     steps{
                         dir("Android"){
+							bat 'C:/Ruby25-x64/bin/fastlane internal'
                             bat 'C:/Ruby25-x64/bin/fastlane alpha'
                         }
                     }
