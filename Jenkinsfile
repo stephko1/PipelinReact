@@ -75,8 +75,8 @@ pipeline {
                 stage('Alpha Android'){
                     steps{
                         dir("Android"){
-							bat 'C:/Ruby25-x64/bin/fastlane internal'
-                            bat 'C:/Ruby25-x64/bin/fastlane alpha'
+							//bat 'C:/Ruby25-x64/bin/fastlane internal'
+                            //bat 'C:/Ruby25-x64/bin/fastlane alpha'
                         }
                     }
                 }
@@ -100,7 +100,7 @@ pipeline {
                     }
                     steps{
                         dir("Android"){
-                            bat 'C:/Ruby25-x64/bin/fastlane beta'
+                            //bat 'C:/Ruby25-x64/bin/fastlane beta'
                         }
                     }
 				}
@@ -128,7 +128,7 @@ pipeline {
                     }
                     steps{
                         dir("Android"){
-                            bat 'C:/Ruby25-x64/bin/fastlane store'
+                            //bat 'C:/Ruby25-x64/bin/fastlane store'
                         }
                     }
 				}
