@@ -111,7 +111,7 @@ platform :ios do
 	desc "Alpha Version"
 	lane :alpha do
 		firebase_app_distribution(
-		 app: "1:372197525254:ios:3c4265e6900031a04f8087",
+		 app: "1:22546500112:ios:9d2c7061d8431cbddb9895",
 		 testers: "stephko@outlook.com",
 		 release_notes: "Test this app - New Features!",
 		 firebase_cli_token: "1//09FUeruJavUE0CgYIARAAGAkSNwF-L9IrM1LbI9nwR0jYKcrHMbIArw6aOdHoscZaNj0kPDvEPnl5w0FKQNqfRJZRB3xCCgLPTNw",

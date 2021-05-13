@@ -43,7 +43,7 @@ pipeline {
                     steps{
                         node('Mac') {
                             dir("ios"){
-                                sh '/usr/local/bin/fastlane build'
+                                //sh '/usr/local/bin/fastlane build'
                             }
                         }
                     }
@@ -84,7 +84,7 @@ pipeline {
                     steps{
                         //node('Mac') {
                             dir("ios"){
-                                //sh '/usr/local/bin/fastlane alpha'
+                                sh '/usr/local/bin/fastlane alpha'
                             }
                         //}
                     }
@@ -112,7 +112,7 @@ pipeline {
                     steps{
 						//node('Mac') {
 							dir("ios"){
-								//sh 'sudo /usr/local/bin/fastlane beta'
+								sh 'sudo /usr/local/bin/fastlane beta'
 							}
 						//}
                     }
