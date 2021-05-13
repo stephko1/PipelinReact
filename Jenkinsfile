@@ -41,11 +41,11 @@ pipeline {
                 }
                 stage('Build & Sign iOS'){
                     steps{
-                        //node('Mac') {
+                        node('Mac') {
                             dir("ios"){
-                                //sh '/usr/local/bin/fastlane build'
+                                sh '/usr/local/bin/fastlane build'
                             }
-                        //}
+                        }
                     }
                 }
             }
