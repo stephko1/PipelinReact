@@ -82,11 +82,11 @@ pipeline {
                 }
                 stage('Alpha iOS'){
                     steps{
-                        //node('Mac') {
+                        node('Mac') {
                             dir("ios"){
                                 sh '/usr/local/bin/fastlane alpha'
                             }
-                        //}
+                        }
                     }
                 }
             }
@@ -110,11 +110,11 @@ pipeline {
                         ok "Yes"
                     }
                     steps{
-						//node('Mac') {
+						node('Mac') {
 							dir("ios"){
 								sh 'sudo /usr/local/bin/fastlane beta'
 							}
-						//}
+						}
                     }
                 }
             }
