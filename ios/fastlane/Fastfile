@@ -78,7 +78,12 @@ platform :ios do
 		)
 
 		increment_build_number({build_number: latest_testflight_build_number + 1 })
-
+		
+		unlock_keychain(
+		 path: "/Users/meks/Library/Keychains/login.keychain-db",
+		 password: "Kouch2805"
+		)
+		
 		gym(
 		 scheme: "Rakning",
 		 configuration: "Release",
