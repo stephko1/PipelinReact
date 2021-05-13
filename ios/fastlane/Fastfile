@@ -114,7 +114,7 @@ platform :ios do
 		 app: "1:22546500112:ios:9d2c7061d8431cbddb9895",
 		 testers: "stephko@outlook.com",
 		 release_notes: "Test this app - New Features!",
-		 firebase_cli_token: "1//09FUeruJavUE0CgYIARAAGAkSNwF-L9IrM1LbI9nwR0jYKcrHMbIArw6aOdHoscZaNj0kPDvEPnl5w0FKQNqfRJZRB3xCCgLPTNw",
+		 firebase_cli_token: "1//09T37mwlf1AhFCgYIARAAGAkSNwF-L9IrjpzK_17CaELMzxkW4ztX9XUiCce1I_SWv7zghEbUIfNE5DUJaXUEGmYCsGQIYhYdUn8",
 		 ipa_path: "./build/Pipeline.ipa"
 		)
 	end
