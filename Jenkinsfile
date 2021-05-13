@@ -4,9 +4,9 @@ pipeline {
         stage('Git') {
             steps {
                 git url:'https://github.com/stephko1/PipelinReact.git', branch:'main'
-                //node('Mac') {
+                node('Mac') {
                     git url:'https://github.com/stephko1/PipelinReact.git', branch:'main'
-                //}
+                }
             }
         }
         stage('Statische Code Analyse'){
