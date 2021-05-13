@@ -64,7 +64,7 @@ platform :ios do
 		
 		update_project_provisioning(
 		 xcodeproj: "Rakning.xcodeproj",
-		 profile:ENV["sigh_com.meks.Pipeline_appstore_profile-path"],
+		 profile:ENV["sigh_com.meks.deploymentPipelineReact_appstore_profile-path"],
 		 build_configuration: "Release"
 		)
 
@@ -87,7 +87,7 @@ platform :ios do
 		 export_options: {
 				method: "app-store",
 				provisioningProfiles: { 
-				 "com.meks.deploymentPipelineReact" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
+				 "com.meks.deploymentPipelineReact" => ENV["sigh_com.meks.deploymentPipelineReact_appstore_profile-name"]
 				}
 		 },
 		 output_name: "Pipeline.ipa"
@@ -187,7 +187,7 @@ platform :ios do
 		 export_options: {
 			method: "app-store",
 			provisioningProfiles: { 
-			 "com.meks.deploymentPipelineReact" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
+			 "com.meks.deploymentPipelineReact" => ENV["sigh_com.meks.deploymentPipelineReact_appstore_profile-name"]
 			}
 		 },
 		 output_name: "Pipeline.ipa"
