@@ -147,7 +147,7 @@ platform :ios do
 		upload_to_testflight(
 		 ipa: "./build/Pipeline.ipa",
 		 skip_waiting_for_build_processing: true,
-		 distribute_external: true,
+		 distribute_external: false
 		)
 	end
 	
