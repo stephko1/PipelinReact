@@ -1,5 +1,6 @@
 platform :ios, '10.0'
-
+pod 'Firebase/Analytics'
+pod 'Firebase/Crashlytics'
 require_relative '../node_modules/react-native-unimodules/cocoapods'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
@@ -50,7 +51,7 @@ target 'Rakning' do
   use_unimodules!
 
   # react-native-cli autolinking
-  use_native_modules!
+  #use_native_modules!
   pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
 
   pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
