@@ -26,11 +26,21 @@ nuke cert
 fastlane ios build
 ```
 Signing and Build
+### ios unit_test
+```
+fastlane ios unit_test
+```
+Unit Test
 ### ios alpha
 ```
 fastlane ios alpha
 ```
 Alpha Version
+### ios ui_test
+```
+fastlane ios ui_test
+```
+UI Testing
 ### ios beta
 ```
 fastlane ios beta

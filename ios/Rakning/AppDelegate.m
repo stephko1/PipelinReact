@@ -14,9 +14,9 @@
 #import <UMReactNativeAdapter/UMNativeModulesProxy.h>
 #import <UMReactNativeAdapter/UMModuleRegistryAdapter.h>
 
-#import <AppCenterReactNative.h>
-#import <AppCenterReactNativeAnalytics.h>
-#import <AppCenterReactNativeCrashes.h>
+//#import <AppCenterReactNative.h>
+//#import <AppCenterReactNativeAnalytics.h>
+//#import <AppCenterReactNativeCrashes.h>
 
 #import <Firebase.h>
 
@@ -30,9 +30,9 @@
      [FIRApp configure];
   }
 
-  [AppCenterReactNative register];
-  [AppCenterReactNativeAnalytics registerWithInitiallyEnabled:true];
-  [AppCenterReactNativeCrashes registerWithAutomaticProcessing];
+  //[AppCenterReactNative register];
+  //[AppCenterReactNativeAnalytics registerWithInitiallyEnabled:true];
+  //[AppCenterReactNativeCrashes registerWithAutomaticProcessing];
 
   self.moduleRegistryAdapter = [[UMModuleRegistryAdapter alloc] initWithModuleRegistryProvider:[[UMModuleRegistryProvider alloc] init]];
   RCTBridge *bridge = [[RCTBridge alloc] initWithDelegate:self launchOptions:launchOptions];
