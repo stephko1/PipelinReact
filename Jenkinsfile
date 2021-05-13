@@ -112,7 +112,7 @@ pipeline {
                     steps{
 						node('Mac') {
 							dir("ios"){
-								sh 'sudo /usr/local/bin/fastlane beta'
+								sh '/usr/local/bin/fastlane beta'
 							}
 						}
                     }
@@ -138,11 +138,11 @@ pipeline {
                         ok "Yes"
                     }
                     steps{
-						//node('Mac') {
+						node('Mac') {
 							dir("ios"){
-								//sh 'sudo /usr/local/bin/fastlane store'
+								sh '/usr/local/bin/fastlane store'
 							}
-						//}
+						}
                     }
                 }
             }
