@@ -5,7 +5,7 @@ platform :ios do
 	lane :nuke do
 		match_nuke(
 		 type: "appstore",
-		 app_identifier: "com.meks.Pipeline",
+		 app_identifier: "com.meks.deploymentPipelineReact",
 		 username: "meks2016app@gmail.com",
 		 team_id: "Stephan Kouch",
 		 team_name: "Stephan Kouch",
@@ -17,7 +17,7 @@ platform :ios do
 		)
 		match_nuke(
 		 type: "development",
-		 app_identifier: "com.meks.Pipeline",
+		 app_identifier: "com.meks.deploymentPipelineReact",
 		 username: "meks2016app@gmail.com",
 		 team_id: "Stephan Kouch",
 		 team_name: "Stephan Kouch",
@@ -29,7 +29,7 @@ platform :ios do
 		)
 		match_nuke(
 		 type: "adhoc",
-		 app_identifier: "com.meks.Pipeline",
+		 app_identifier: "com.meks.deploymentPipelineReact",
 		 username: "meks2016app@gmail.com",
 		 team_id: "Stephan Kouch",
 		 team_name: "Stephan Kouch",
@@ -45,13 +45,13 @@ platform :ios do
 	lane :build do
 		
 		disable_automatic_code_signing(
-		 path:"/Users/meks/Desktop/Jenkins/workspace/Pipeline/ios/Pipeline.xcodeproj", 
+		 path:"/Users/meks/Desktop/Jenkins/workspace/Pipeline/ios/Rakning.xcodeproj", 
 		 team_id: "256YBZNBRS"
 		)
 		
 		match(
 		 type: "appstore",
-		 app_identifier: "com.meks.Pipeline",
+		 app_identifier: "com.meks.deploymentPipelineReact",
 		 username: "meks2016app@gmail.com",
 		 team_id: "256YBZNBRS",
 		 team_name: "Stephan Kouch",
@@ -63,7 +63,7 @@ platform :ios do
 		)
 		
 		update_project_provisioning(
-		 xcodeproj: "Pipeline.xcodeproj",
+		 xcodeproj: "Rakning.xcodeproj",
 		 profile:ENV["sigh_com.meks.Pipeline_appstore_profile-path"],
 		 build_configuration: "Release"
 		)
@@ -79,7 +79,7 @@ platform :ios do
 		increment_build_number({build_number: latest_testflight_build_number + 1 })
 
 		gym(
-		 scheme: "Pipeline",
+		 scheme: "Rakning",
 		 configuration: "Release",
 		 clean: true,
 		 export_method: "app-store",
@@ -87,7 +87,7 @@ platform :ios do
 		 export_options: {
 				method: "app-store",
 				provisioningProfiles: { 
-				 "com.meks.Pipeline" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
+				 "com.meks.deploymentPipelineReact" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
 				}
 		 },
 		 output_name: "Pipeline.ipa"
@@ -97,7 +97,7 @@ platform :ios do
 	desc "Unit Test"
 	lane :unit_test do
 		scan(
-		  workspace: "Pipeline.xcworkspace",
+		  workspace: "Rakning.xcworkspace",
 		  devices: ["iPhone X", "iPhone 12"]
 		)
 	end
@@ -178,8 +178,8 @@ platform :ios do
 		increment_build_number({build_number: latest_testflight_build_number + 1 })
 
 		gym(
-		 workspace: "Pipeline.xcworkspace",
-		 scheme: "Pipeline",
+		 workspace: "Rakning.xcworkspace",
+		 scheme: "Rakning",
 		 configuration: "Release",
 		 clean: true,
 		 export_method: "app-store",
@@ -187,7 +187,7 @@ platform :ios do
 		 export_options: {
 			method: "app-store",
 			provisioningProfiles: { 
-			 "com.meks.Pipeline" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
+			 "com.meks.deploymentPipelineReact" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
 			}
 		 },
 		 output_name: "Pipeline.ipa"
