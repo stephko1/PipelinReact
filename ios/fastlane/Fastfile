@@ -1,0 +1,224 @@
+default_platform(:ios)
+
+platform :ios do
+	desc "nuke cert"
+	lane :nuke do
+		match_nuke(
+		 type: "appstore",
+		 app_identifier: "com.meks.Pipeline",
+		 username: "meks2016app@gmail.com",
+		 team_id: "Stephan Kouch",
+		 team_name: "Stephan Kouch",
+		 storage_mode: "git",
+		 git_url: "https://github.com/stephko1/certificates.git",
+		 git_branch: "main",
+		 shallow_clone: true,
+		 git_private_key: "/Users/meks/Desktop/id_ed25519"
+		)
+		match_nuke(
+		 type: "development",
+		 app_identifier: "com.meks.Pipeline",
+		 username: "meks2016app@gmail.com",
+		 team_id: "Stephan Kouch",
+		 team_name: "Stephan Kouch",
+		 storage_mode: "git",
+		 git_url: "https://github.com/stephko1/certificates.git",
+		 git_branch: "main",
+		 shallow_clone: true,
+		 git_private_key: "/Users/meks/Desktop/id_ed25519"
+		)
+		match_nuke(
+		 type: "adhoc",
+		 app_identifier: "com.meks.Pipeline",
+		 username: "meks2016app@gmail.com",
+		 team_id: "Stephan Kouch",
+		 team_name: "Stephan Kouch",
+		 storage_mode: "git",
+		 git_url: "https://github.com/stephko1/certificates.git",
+		 git_branch: "main",
+		 shallow_clone: true,
+		 git_private_key: "/Users/meks/Desktop/id_ed25519"
+		)
+	end
+
+	desc "Signing and Build"
+	lane :build do
+		
+		disable_automatic_code_signing(
+		 path:"/Users/meks/Desktop/Jenkins/workspace/Pipeline/ios/Pipeline.xcodeproj", 
+		 team_id: "256YBZNBRS"
+		)
+		
+		match(
+		 type: "appstore",
+		 app_identifier: "com.meks.Pipeline",
+		 username: "meks2016app@gmail.com",
+		 team_id: "256YBZNBRS",
+		 team_name: "Stephan Kouch",
+		 storage_mode: "git",
+		 git_url: "https://github.com/stephko1/certificates.git",
+		 git_branch: "main",
+		 shallow_clone: true,
+		 git_private_key: "/Users/meks/Desktop/id_ed25519"
+		)
+		
+		update_project_provisioning(
+		 xcodeproj: "Pipeline.xcodeproj",
+		 profile:ENV["sigh_com.meks.Pipeline_appstore_profile-path"],
+		 build_configuration: "Release"
+		)
+
+		app_store_connect_api_key(
+		 key_id: "D4W6CGNRJF",
+		 issuer_id: "3548afcc-2078-4234-b513-2cd64fe470af",
+		 key_filepath: "/Users/meks/Desktop/AuthKey_D4W6CGNRJF.p8",
+		 duration: 1200,
+		 in_house: false
+		)
+
+		increment_build_number({build_number: latest_testflight_build_number + 1 })
+
+		gym(
+		 scheme: "Pipeline",
+		 configuration: "Release",
+		 clean: true,
+		 export_method: "app-store",
+		 output_directory:"./build/",
+		 export_options: {
+				method: "app-store",
+				provisioningProfiles: { 
+				 "com.meks.Pipeline" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
+				}
+		 },
+		 output_name: "Pipeline.ipa"
+		)
+	end
+	
+	desc "Unit Test"
+	lane :unit_test do
+		scan(
+		  workspace: "Pipeline.xcworkspace",
+		  devices: ["iPhone X", "iPhone 12"]
+		)
+	end
+
+	desc "Alpha Version"
+	lane :alpha do
+		firebase_app_distribution(
+		 app: "1:372197525254:ios:3c4265e6900031a04f8087",
+		 testers: "stephko@outlook.com",
+		 release_notes: "Test this app - New Features!",
+		 firebase_cli_token: "1//09FUeruJavUE0CgYIARAAGAkSNwF-L9IrM1LbI9nwR0jYKcrHMbIArw6aOdHoscZaNj0kPDvEPnl5w0FKQNqfRJZRB3xCCgLPTNw",
+		 ipa_path: "./build/Pipeline.ipa"
+		)
+	end
+	
+	desc "UI Testing"
+	lane :ui_test do
+		appium(
+		 app_path:  "./build/Pipeline.ipa",
+		 spec_path: "appium/spec",
+		 platform:  "iOS",
+		 caps: {
+			deviceName:    "iPhone 12"
+		 },
+		 appium_lib: {
+			wait: 10
+		 }
+		)
+	end
+	
+	desc "Beta Version"
+	lane :beta do
+		app_store_connect_api_key(
+		 key_id: "D4W6CGNRJF",
+		 issuer_id: "3548afcc-2078-4234-b513-2cd64fe470af",
+		 key_filepath: "/Users/meks/Desktop/AuthKey_D4W6CGNRJF.p8",
+		 duration: 1200,
+		 in_house: false
+		)
+
+		upload_to_testflight(
+		 ipa: "./build/Pipeline.ipa",
+		 skip_waiting_for_build_processing: true,
+		 groups: "group",
+		 distribute_external: true,
+		 submission_information: {
+      			add_id_info_limits_tracking: true,
+      			add_id_info_serves_ads: false,
+      			add_id_info_tracks_action: true,
+      			add_id_info_tracks_install: true,
+      			add_id_info_uses_idfa: true,
+      			content_rights_has_rights: true,
+      			content_rights_contains_third_party_content: true,
+      			export_compliance_platform: 'ios',
+      			export_compliance_compliance_required: false,
+      			export_compliance_encryption_updated: false,
+      			export_compliance_app_type: nil,
+      			export_compliance_uses_encryption: false,
+      			export_compliance_is_exempt: false,
+      			export_compliance_contains_third_party_cryptography: false,
+      			export_compliance_contains_proprietary_cryptography: false,
+      			export_compliance_available_on_french_store: false
+    		 }
+		)
+	end
+	
+
+	desc "Release app"
+	lane :store do
+		app_store_connect_api_key(
+		 key_id: "D4W6CGNRJF",
+		 issuer_id: "3548afcc-2078-4234-b513-2cd64fe470af",
+		 key_filepath: "/Users/meks/Desktop/AuthKey_D4W6CGNRJF.p8",
+		 duration: 1200,
+		 in_house: false
+		)
+
+		increment_build_number({build_number: latest_testflight_build_number + 1 })
+
+		gym(
+		 workspace: "Pipeline.xcworkspace",
+		 scheme: "Pipeline",
+		 configuration: "Release",
+		 clean: true,
+		 export_method: "app-store",
+		 output_directory:"./build/",
+		 export_options: {
+			method: "app-store",
+			provisioningProfiles: { 
+			 "com.meks.Pipeline" => ENV["sigh_com.meks.Pipeline_appstore_profile-name"]
+			}
+		 },
+		 output_name: "Pipeline.ipa"
+		)
+
+		upload_to_app_store(
+		 ipa: "./build/Pipeline.ipa",
+		 submit_for_review: true,
+		 force: true,
+		 automatic_release: true,
+		 precheck_include_in_app_purchases: false,
+		 copyright: "2021 Stephan Kouch",
+		 app_rating_config_path: "./fastlane/metadata/rating_config.json",
+		 submission_information: {
+      			add_id_info_limits_tracking: true,
+      			add_id_info_serves_ads: false,
+      			add_id_info_tracks_action: true,
+      			add_id_info_tracks_install: true,
+      			add_id_info_uses_idfa: false,
+      			content_rights_has_rights: true,
+      			content_rights_contains_third_party_content: false,
+      			export_compliance_platform: 'ios',
+      			export_compliance_compliance_required: false,
+      			export_compliance_encryption_updated: false,
+      			export_compliance_app_type: nil,
+      			export_compliance_uses_encryption: false,
+      			export_compliance_is_exempt: false,
+      			export_compliance_contains_third_party_cryptography: false,
+      			export_compliance_contains_proprietary_cryptography: false,
+      			export_compliance_available_on_french_store: false
+    		 }
+		)
+	end
+end

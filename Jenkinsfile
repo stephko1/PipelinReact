@@ -5,7 +5,7 @@ pipeline {
             steps {
                 git url:'https://github.com/stephko1/PipelinReact.git', branch:'main'
                 //node('Mac') {
-                    //git url:'https://github.com/stephko1/PipelineWindows.git', branch:'main'
+                    git url:'https://github.com/stephko1/PipelineWindows.git', branch:'main'
                 //}
             }
         }
@@ -14,7 +14,7 @@ pipeline {
                 stage('Code Analyse Android'){
                     steps{
                         dir("android"){
-                            bat "gradlew.bat -D'sonar.host.url=http://localhost:9000' sonarqube"
+                            //bat "gradlew.bat -D'sonar.host.url=http://localhost:9000' sonarqube"
                         }
                     }
                 }
@@ -35,7 +35,7 @@ pipeline {
                 stage('Build & Sign Android'){
                     steps{
                         dir("android"){
-                            bat 'C:/Ruby25-x64/bin/fastlane build build_number:$BUILD_NUMBER'
+                            //bat 'C:/Ruby25-x64/bin/fastlane build build_number:$BUILD_NUMBER'
                         }
                     }
                 }
@@ -55,7 +55,7 @@ pipeline {
                 stage('Test Android'){
                     steps{
                         dir("Android"){
-                            bat """ "C:/Users/steph/AppData/Local/Google/Cloud SDK/google-cloud-sdk/bin/gcloud" firebase test android run --type robo --app "./app/release/app-release.apk" --device-ids=flame --os-version-ids=30 """
+                            //bat """ "C:/Users/steph/AppData/Local/Google/Cloud SDK/google-cloud-sdk/bin/gcloud" firebase test android run --type robo --app "./app/release/app-release.apk" --device-ids=flame --os-version-ids=30 """
                         }
                     }
                 }
